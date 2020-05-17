@@ -1,4 +1,92 @@
-{
-  "submarine1": "stub",
-  "submarine2": "stub"
-}
+[
+  {
+    "x": 100,
+    "y": 500,
+    "width": 50,
+    "height": 30,
+    "turret": 10,
+    "porthole": 3,
+    "color": "#e3f2fd"
+  },
+  {
+    "x": 250,
+    "y": 350,
+    "width": 40,
+    "height": 30,
+    "turret": 20,
+    "porthole": 4,
+    "color": "#90caf9"
+  },
+  {
+    "x": 400,
+    "y": 300,
+    "width": 20,
+    "height": 10,
+    "turret": 15,
+    "porthole": 3,
+    "color": "#64b5f6"
+  },
+  {
+    "x": 550,
+    "y": 200,
+    "width": 50,
+    "height": 20,
+    "turret": 30,
+    "porthole": 2,
+    "color": "#42a5f5"
+  },
+  {
+    "x": 700,
+    "y": 500,
+    "width": 35,
+    "height": 30,
+    "turret": 20,
+    "porthole": 6,
+    "color": "#2196f3"
+  },
+  {
+    "x": 850,
+    "y": 150,
+    "width": 25,
+    "height": 10,
+    "turret": 10,
+    "porthole": 3,
+    "color": "#1e88e5"
+  },
+  {
+    "x": 1000,
+    "y": 400,
+    "width": 60,
+    "height": 30,
+    "turret": 10,
+    "porthole": 5,
+    "color": "#1976d2"
+  },
+  {
+    "x": 1150,
+    "y": 600,
+    "width": 30,
+    "height": 40,
+    "turret": 30,
+    "porthole": 5,
+    "color": "#1565c0"
+  },
+  {
+    "x": 1300,
+    "y": 200,
+    "width": 50,
+    "height": 25,
+    "turret": 20,
+    "porthole": 10,
+    "color": "#0d47a1"
+  },
+  {
+    "x": 1450,
+    "y": 300,
+    "width": 20,
+    "height": 10,
+    "turret": 30,
+    "porthole": 4,
+    "color": "#2962ff"
+  }
+]
