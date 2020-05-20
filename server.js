@@ -21,6 +21,20 @@ fs.readFile('template/index.html', function (err, html) {
 });
 
 /***
+ * javascript route
+ */
+fs.readFile('js/submarines.js', function (err, js) {
+    if (err) {
+        throw err;
+    }
+    app.get('/js/submarines.js', function (req, res) {
+        res.writeHeader(200, {"Content-Type": "text/javascript"});
+        res.write(js);
+        res.end();
+    });
+});
+
+/***
  * dataset route
   */
 app.get('/dataset', function (req, res) {
