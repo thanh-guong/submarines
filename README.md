@@ -15,5 +15,10 @@ run `npm install`
 
 ### Running
 
-If you're on a **unix** OS, run `sh unix_runner.sh`
-If you're on a **Windows** OS, run `sh windows_runner.bat`
+If you're on a **unix** OS, run `sh unix_runner.sh` from terminal.
+If you're on a **Windows** OS, run `sh windows_runner.bat` from command prompt.
+You can see the port that is used by this application.
+
+## Usage
+
+Open your web browser and typer localhost:3000 (by default it is 3000, if it doesn't work, take a look at the node server log on which the application is running).
